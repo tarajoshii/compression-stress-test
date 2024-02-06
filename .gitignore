@@ -11,3 +11,12 @@ CTestTestfile.cmake
 _deps
 build
 cmake-build-debug
+generated
+elf2uf2
+pioasm
+picosdk
+*.bin
+*.elf
+*.hex
+*.map
+*.uf2
