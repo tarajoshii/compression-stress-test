@@ -15,8 +15,3 @@ generated
 elf2uf2
 pioasm
 picosdk
-*.bin
-*.elf
-*.hex
-*.map
-*.uf2
